@@ -129,7 +129,6 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_News/DD_News_6
 --------------------------------------------------------------------
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD JTV HQ
 https://sony247channels.akamaized.net/hls/live/2008251/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1577007000_5db6054e2423d86179e85482e762c381"
-
 #EXTINF:-1 tvg-id="SONY MAX SD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD JTV HQ
 https://sony247channels.akamaized.net/hls/live/2008251/SonyMaxhd/hdntl=exp=1577092492~acl=%2f*~data=hdntl~hmac=be880feeec9fa8fcc501a39f286b9e3be5cd5e16940f75f8045e1c8fc53b492c/master_664.m3u8"
 
