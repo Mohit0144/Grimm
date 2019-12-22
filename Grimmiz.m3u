@@ -132,7 +132,7 @@ https://sony247channels.akamaized.net/hls/live/2008251/SonyMaxhd/master.m3u8?hdn
 #EXTINF:-1 tvg-id="SONY MAX SD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD JTV HQ
 https://sony247channels.akamaized.net/hls/live/2008251/SonyMaxhd/hdntl=exp=1577092492~acl=%2f*~data=hdntl~hmac=be880feeec9fa8fcc501a39f286b9e3be5cd5e16940f75f8045e1c8fc53b492c/master_664.m3u8"
 
-#EXTINF:-1 tvg-id="Zee Cinema HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD JTV HQ
+#EXTINF:-1 tvg-id="Zee Cinema HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD new
 https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1577008185~exp=1577011185~acl=/*~hmac=21feedaf4ae449fa337fcd09ca6a7a211b82c6d233bc56790251e71632efdb3c"
 #EXTINF:-1 tvg-id="Zee Cinema HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD JTV HQ
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
