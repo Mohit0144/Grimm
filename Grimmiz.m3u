@@ -57,12 +57,11 @@ http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 
-#EXTINF:-1 tvg-id="Colors HD" group-title="Hindi Entertainment" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/02/colorshdlogo002-696x464.jpg/revision/latest?cb=20170604044941",Colors H (Auto Decoder)
+#EXTINF:-1 tvg-id="Colors HD" group-title="Hindi Entertainment" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/02/colorshdlogo002-696x464.jpg/revision/latest?cb=20170604044941",Colors HD
 http://51.159.34.142:8081/lpcind2/colorstvhd/chunks.m3u8?nimblesessionid=1662089&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSAzOjEwOjU5IFBNJmhhc2hfdmFsdWU9ZUtqTGFXZlpTdzJRZ1pFTXN5d2ZXZz09JnZhbGlkbWludXRlcz0y
 
-#EXTINF:-1 tvg-id="Colors" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%84%D8%A9_%D8%A8%D8%B1%D8%B3.png/revision/latest?cb=20170604044941",Colors H (Auto Decoder)
+#EXTINF:-1 tvg-id="Colors" group-title="Hindi Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%84%D8%A9_%D8%A8%D8%B1%D8%B3.png/revision/latest?cb=20170604044941",Colors 
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Andtv HD" group-title="Hindi Entertainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
