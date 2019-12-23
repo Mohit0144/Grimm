@@ -2025,7 +2025,7 @@ http://pockettv.xyz/api/zee.m3u8?c=andflix
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",Star Movies
-http://51.159.34.142:8081/lpcind1/starmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxOSA0OjMxOjAzIFBNJmhhc2hfdmFsdWU9VmhPNlgrK25rSndTM3ltYkZwTldaQT09JnZhbGlkbWludXRlcz0y
+http://51.159.34.142:8081/lpcind1/starmovies/chunks.m3u8?nimblesessionid=1772866&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxOSA0OjI5OjA1IFBNJmhhc2hfdmFsdWU9MGNZMk5Kemx2N2xZRXNyN01venVwQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",Movies Select HD (Auto Decoder)
 http://redflixtv.online/uploads.php?link=6f9c3024f20d78c43e4d43c5609af007&token=687474703a2f2f6269742e6c792f73656c6563746864/
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",Star World (Auto Decoder)
