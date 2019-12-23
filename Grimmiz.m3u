@@ -25,7 +25,7 @@ http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_600.m3u8|user-a
 https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1577182125~acl=%2f*~data=hdntl~hmac=1040d8e75367bb5cae36b7dd513090d99911a8b14b3e329549f490b20f9453f0/master_2000.m3u8"
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD M
-http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_HD/Sony_HD_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1577182125~acl=%2f*~data=hdntl~hmac=1040d8e75367bb5cae36b7dd513090d99911a8b14b3e329549f490b20f9453f0/master_664.m3u8"
 
 
 #EXTINF:-1 tvg-id="SET" group-title="Hindi Entertainment" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_324/PORTRAIT/a625436c-4d76-4a5f-8c44-ade41206b7df.png",$ SET H (Auto Decoder)
