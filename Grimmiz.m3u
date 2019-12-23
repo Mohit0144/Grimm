@@ -128,7 +128,7 @@ https://sony247channels.akamaized.net/hls/live/2008251/SonyMaxhd/hdntl=exp=15770
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2019/07/Xplorhd.jpg",&xplore HD
-http://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1577119021~exp=1577122021~acl=/*~hmac=e11dcc841e200de74bb63cc69cc4c07c6a7598819aa237972b74ec429c3d558b
+https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1577120110~exp=1577123110~acl=/*~hmac=790bc40e1704542333c35fc9ee2f1f66b9377eeb24903d616d9e02d3a959f212
 #EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action JTV HD
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Action/Zee_Action_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 #EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action JTV HQ
