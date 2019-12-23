@@ -22,7 +22,8 @@ http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_600.m3u8|user-a
 
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
-https://sony247channels.akamaized.net/hls/live/2008252/SETHD/master.m3u8?&__nn__=5606168722001&hdnea=st=1577093400~exp=1577097000~acl=/hls/live/2008252/SETHD/*~hmac=24b6a52376f14d02a413bf90cf0cb9a683abb0c3cc3b42a97f5538193bbe088e"
+https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1577182125~acl=%2f*~data=hdntl~hmac=1040d8e75367bb5cae36b7dd513090d99911a8b14b3e329549f490b20f9453f0/master_2000.m3u8
+
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD M
 https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1577182125~acl=%2f*~data=hdntl~hmac=1040d8e75367bb5cae36b7dd513090d99911a8b14b3e329549f490b20f9453f0/master_664.m3u8"
 
