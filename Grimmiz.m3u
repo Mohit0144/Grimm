@@ -2023,7 +2023,7 @@ http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 http://pockettv.xyz/api/zee.m3u8?c=andflix
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",Star Movies HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",Star Movies
 http://51.159.34.142:8081/lpcind1/starmovies/chunks.m3u8?nimblesessionid=1772866&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxOSA0OjI5OjA1IFBNJmhhc2hfdmFsdWU9MGNZMk5Kemx2N2xZRXNyN01venVwQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A",Movies Select HD (Auto Decoder)
