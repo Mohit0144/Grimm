@@ -22,8 +22,7 @@ http://starvijay-i.akamaihd.net/hls/live/569909/starvijay/master_600.m3u8|user-a
 
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
-https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1577182125~acl=%2f*~data=hdntl~hmac=1040d8e75367bb5cae36b7dd513090d99911a8b14b3e329549f490b20f9453f0/master_2000.m3u8"
-
+https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1577182125~acl=%2f*~data=hdntl~hmac=1040d8e75367bb5cae36b7dd513090d99911a8b14b3e329549f490b20f9453f0/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36
 #EXTINF:-1 tvg-id="SET  HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD M
 https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1577182125~acl=%2f*~data=hdntl~hmac=1040d8e75367bb5cae36b7dd513090d99911a8b14b3e329549f490b20f9453f0/master_664.m3u8"
 
