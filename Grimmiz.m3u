@@ -740,9 +740,9 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",Aaho Musio
 http://live.redflixtv.online/M3U8_Music_Aaho_New.php
 ----------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="MTV Beats HD" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD JTV FHD+
+#EXTINF:-1 tvg-id="MTV Beats HD" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD nop
 http://ngprsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-#EXTINF:-1 tvg-id="MTV Beats HD" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD JTV FHD
+#EXTINF:-1 tvg-id="MTV Beats HD" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD nop
 http://ngprsite.cdnsrv.jio.com:80/jiotv.live.cdn.jio.com/MTV_Beats_HD/MTV_Beats_HD_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 ----------------------------------------------------------------------------------------------------------------
 
