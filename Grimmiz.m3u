@@ -48,7 +48,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 
 #EXTINF:-1 tvg-id="Colors HD" group-title="Hindi Entertainment" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/02/colorshdlogo002-696x464.jpg/revision/latest?cb=20170604044941",Colors HD
-http://51.159.34.142:8081/lpcind2/aapkacolorshd/chunks.m3u8?nimblesessionid=1685475&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxOSA3OjEyOjA0IFBNJmhhc2hfdmFsdWU9bS9ya3c2K0Y4dHV4UmpnYWpRWW1WQT09JnZhbGlkbWludXRlcz0y
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" group-title="Hindi Entertainment" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png",&TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
