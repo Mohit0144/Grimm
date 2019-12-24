@@ -702,7 +702,7 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/etc/etc_600.m3u8?
 http://pockettv.xyz/api/zee.m3u8?c=etc
 
 #EXTINF:-1 tvg-id="SONY MIX" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png",Sony Mix HD(Offline)
-http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+http://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8"
 #EXTINF:-1 tvg-id="SONY MIX" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png",Sony Mix SD
 http://sony247channels.akamaized.net/hls/live/2002598/SonyMixSD/hdntl=exp=1577212589~acl=%2f*~data=hdntl~hmac=3b556d49700186ff68b0b6d42131a38dfda69ce918f62a28a21f994926ce00ca/master_2000.m3u8
 #EXTINF:-1 tvg-id="9XM" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM JTV HQ
