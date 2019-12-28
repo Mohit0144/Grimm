@@ -37,8 +37,8 @@ https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=157718875
 https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=1577188759~acl=%2f*~data=hdntl~hmac=0b5598545495170f7d74ff4a4235075f400b11abc8bb50c959b82b8ec003ea01/master_664.m3u8"
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD JTV FHD+
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_TV_HD/Zee_TV_HD_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-#EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Colors HD 4K
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43856
+#EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Colors HD 4K (new)
+http://50.7.77.34/colorshd/index.m3u8
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Colors HD
 http://50.7.77.34:80/colorshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV SD
