@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UTV HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marvel-tv-logo.svg/440px-Marvel-tv-logo.svg.png",Marvel Movies
+#EXTINF:-1 tvg-id="UTV HD" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Marvel-tv-logo.svg/440px-Marvel-tv-logo.svg.png",UTV HD
 http://alphabetahost.myddns.me/ind2020/utvhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIxIDExOjUwOjQ5IEFNJmhhc2hfdmFsdWU9RitQTzZtNmdGRGh6ZzNlWkR5L09KZz09JnZhbGlkbWludXRlcz02"
 #EXTINF:-1 tvg-id="Blockbuster" group-title="Movies" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png",Blockbuster
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1638878124~acl=/*~id=30775870182038365423044485780894~hmac=8995f044b7de3c7ffd6300c63e8b6f547936d0aaae25d258a6c30098c52a28cf"
